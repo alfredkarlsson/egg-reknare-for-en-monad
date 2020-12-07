@@ -1,3 +1,3 @@
-# egg reknare for en monad
+# unicode
  
-ska göra en ägg räknare ber dag med hjälp av random under en månad
+unicode
